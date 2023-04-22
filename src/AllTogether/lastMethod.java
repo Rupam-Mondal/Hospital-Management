@@ -55,4 +55,4 @@ public class lastMethod {
 		System.out.println("Thanks for using our facilites");
 	}
 		
-}
+
