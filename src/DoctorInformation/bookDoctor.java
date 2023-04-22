@@ -16,19 +16,19 @@ public class bookDoctor {
 		{
 		case 1:
 			System.out.println("You have succesfully booked a appointment to Dr.Sumit Ghosh");
-			System.out.println("Date and time will be mailed to your registered main id");
+			System.out.println("Date and time will be mailed to your registered mail id");
 			break;
 		case 2:
 			System.out.println("You have succesfully booked a appointment to Dr. Asutosh Ranjan");
-			System.out.println("Date and time will be mailed to your registered main id");
+			System.out.println("Date and time will be mailed to your registered mail id");
 			break;
 		case 3:
 			System.out.println("You have succesfully booked a appointment to Dr. Amit Agarwal");
-			System.out.println("Date and time will be mailed to your registered main id");
+			System.out.println("Date and time will be mailed to your registered mail id");
 			break;
 		case 4:
 			System.out.println("You have succesfully booked a appointment to Dr. Biswanath Laha");
-			System.out.println("Date and time will be mailed to your registered main id");
+			System.out.println("Date and time will be mailed to your registered mail id");
 			break;
 		default :
 			System.out.println("Pls enter only between mentioned serial number");
