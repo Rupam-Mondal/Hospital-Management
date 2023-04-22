@@ -54,5 +54,5 @@ public class lastMethod {
 		while(s1 == 1);
 		System.out.println("Thanks for using our facilites");
 	}
-		
+}		
 
